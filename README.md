@@ -9,7 +9,7 @@ This is a simple script that allows you to check the current weather for a speci
 3. Run the script by entering the following command:
 
     ```bash
-    bash weather_checker.sh
+    bash weather.sh
     ```
 
 4. Follow the prompts to enter your OpenWeatherMap API key. If you don't have an API key, you can follow the instructions below to obtain one.
